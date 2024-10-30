@@ -1,0 +1,16 @@
+/* styles.css */
+
+.click-message {
+    font-family: Helvecta, "Times New Roman", sans-serif;
+    font-size: 28px;
+}
+
+#click-me {
+    color: white;
+    background-color: black
+}
+
+#no-click-me{
+    color: black;
+    background-color: yellow;
+}
